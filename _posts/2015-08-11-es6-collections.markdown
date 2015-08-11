@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ES6 - Reverse Iterable for an Array
-meta: Reverse Iterable for an Array without actually reversing the Array
+description: ES6 - Reverse Iterable for an Array without actually reversing the Array
 ---
 For the past few days, I have been working a lot with the new ES6 [Iteration Protocols](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Iteration_protocols). And I thought of sharing a simple concept that I learnt.
 
