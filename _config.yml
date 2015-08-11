@@ -2,7 +2,7 @@
 title: Chanakya's Blog
 email: chanakyabhardwajj@gmail.com
 description: Chanakya Bhardwaj's technical blog. Javascript & ES6 ramblings.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://chanakyabhardwajj.com" # the base hostname & protocol for your site
 twitter_username: _chanakya
 github_username:  chanakyabhardwajj
